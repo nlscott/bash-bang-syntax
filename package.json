@@ -11,7 +11,7 @@
     "blue",
     "yellow"
   ],
-  "repository": "https://github.com/nlscott/scottnl-bash",
+  "repository": "https://github.com/nlscott/bash-bang-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
